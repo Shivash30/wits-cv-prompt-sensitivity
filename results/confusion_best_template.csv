@@ -1,0 +1,19 @@
+,speed limit 20 km/h,speed limit 30 km/h,speed limit 50 km/h,speed limit 60 km/h,speed limit 70 km/h,speed limit 80 km/h,speed limit 100 km/h,speed limit 120 km/h,general caution,dangerous curve to the left,dangerous curve to the right,double curve,bumpy road,slippery road,road narrows on the right,road work,traffic signals,pedestrians
+speed limit 20 km/h,31,1,0,0,15,0,0,13,0,0,0,0,0,0,0,0,0,0
+speed limit 30 km/h,25,549,35,8,22,4,2,45,0,12,0,1,0,0,0,0,17,0
+speed limit 50 km/h,0,45,588,48,4,13,1,28,0,14,0,0,0,0,0,0,9,0
+speed limit 60 km/h,10,86,89,206,7,11,0,30,0,8,0,1,0,0,0,0,2,0
+speed limit 70 km/h,2,5,0,0,567,0,2,41,0,28,0,0,0,0,0,0,15,0
+speed limit 80 km/h,6,93,67,50,11,321,3,31,0,30,0,1,0,0,0,0,17,0
+speed limit 100 km/h,1,9,12,9,6,13,285,105,0,4,0,0,0,0,0,0,6,0
+speed limit 120 km/h,3,10,16,6,21,1,1,341,2,21,0,5,0,0,0,0,23,0
+general caution,37,58,7,0,0,0,0,35,62,44,119,0,0,4,0,0,17,7
+dangerous curve to the left,0,1,4,0,0,0,0,0,1,15,39,0,0,0,0,0,0,0
+dangerous curve to the right,7,9,2,0,0,0,0,10,2,14,42,0,0,0,0,0,4,0
+double curve,12,5,3,0,10,0,0,3,0,34,12,0,0,0,0,0,11,0
+bumpy road,5,5,28,0,0,0,0,13,6,17,36,0,0,7,0,0,3,0
+slippery road,26,15,25,0,0,0,0,32,10,10,11,0,0,18,0,0,3,0
+road narrows on the right,13,6,1,0,0,0,0,5,5,29,28,1,0,1,0,0,1,0
+road work,35,26,9,0,2,0,0,12,10,92,100,0,0,43,0,0,6,145
+traffic signals,2,19,3,0,0,0,0,7,15,10,29,0,0,13,0,0,82,0
+pedestrians,0,1,0,0,0,0,0,0,3,8,8,0,0,0,0,0,1,39
