@@ -92,7 +92,7 @@ From the test split we kept 18 classes, which gives 5,880 images:
 - 8 speed limits: 20, 30, 50, 60, 70, 80, 100 and 120 km/h
 - 10 warning triangles: general caution, dangerous curve left, dangerous curve right, double curve, bumpy road, slippery road, road narrows on the right, road work, traffic signals and pedestrians
 
-**Licence and provenance.** The Kaggle page for the copy we used lists the licence as CC0 1.0 (public domain) (checked on 26 October 2026). We tried to check the terms on the original GTSRB site (benchmark.ini.rub.de) but it was not reachable, so we could not confirm its terms. Third-party copies of GTSRB elsewhere list different licences, so we relied only on the Kaggle page for the copy we downloaded. We did not redistribute the images (they are not in this repository), and we used them only for this coursework project. The images show road signs, not people.
+**Licence and provenance.** The Kaggle page for the copy we used lists the licence as CC0 1.0 (public domain). We tried to check the terms on the original GTSRB site (benchmark.ini.rub.de) but it was not reachable, so we could not confirm its terms. Third-party copies of GTSRB elsewhere list different licences, so we relied only on the Kaggle page for the copy we downloaded. We did not redistribute the images (they are not in this repository), and we used them only for this coursework project. The images show road signs, not people.
 
 * * *
 
